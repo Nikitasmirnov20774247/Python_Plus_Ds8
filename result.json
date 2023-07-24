@@ -1,0 +1,797 @@
+{
+  "D:\\Program\\Prog\\New_DSpy007": {
+    ".git": {
+      "size": 49683,
+      "file_or_dir": "directory"
+    },
+    "modules": {
+      "size": 25186,
+      "file_or_dir": "directory"
+    },
+    "Sem": {
+      "size": 8958,
+      "file_or_dir": "directory"
+    },
+    "test": {
+      "size": 7,
+      "file_or_dir": "directory"
+    },
+    "test2": {
+      "size": 7,
+      "file_or_dir": "directory"
+    },
+    "Ds1.py": {
+      "size": 2395,
+      "file_or_dir": "file"
+    },
+    "Ds2.py": {
+      "size": 1226,
+      "file_or_dir": "file"
+    },
+    "Readme.md": {
+      "size": 1503,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git": {
+    "hooks": {
+      "size": 23513,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 240,
+      "file_or_dir": "directory"
+    },
+    "logs": {
+      "size": 2248,
+      "file_or_dir": "directory"
+    },
+    "objects": {
+      "size": 18052,
+      "file_or_dir": "directory"
+    },
+    "refs": {
+      "size": 82,
+      "file_or_dir": "directory"
+    },
+    "COMMIT_EDITMSG": {
+      "size": 7,
+      "file_or_dir": "file"
+    },
+    "config": {
+      "size": 319,
+      "file_or_dir": "file"
+    },
+    "description": {
+      "size": 73,
+      "file_or_dir": "file"
+    },
+    "HEAD": {
+      "size": 21,
+      "file_or_dir": "file"
+    },
+    "index": {
+      "size": 5128,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\hooks": {
+    "applypatch-msg.sample": {
+      "size": 478,
+      "file_or_dir": "file"
+    },
+    "commit-msg.sample": {
+      "size": 896,
+      "file_or_dir": "file"
+    },
+    "fsmonitor-watchman.sample": {
+      "size": 4726,
+      "file_or_dir": "file"
+    },
+    "post-update.sample": {
+      "size": 189,
+      "file_or_dir": "file"
+    },
+    "pre-applypatch.sample": {
+      "size": 424,
+      "file_or_dir": "file"
+    },
+    "pre-commit.sample": {
+      "size": 1643,
+      "file_or_dir": "file"
+    },
+    "pre-merge-commit.sample": {
+      "size": 416,
+      "file_or_dir": "file"
+    },
+    "pre-push.sample": {
+      "size": 1374,
+      "file_or_dir": "file"
+    },
+    "pre-rebase.sample": {
+      "size": 4898,
+      "file_or_dir": "file"
+    },
+    "pre-receive.sample": {
+      "size": 544,
+      "file_or_dir": "file"
+    },
+    "prepare-commit-msg.sample": {
+      "size": 1492,
+      "file_or_dir": "file"
+    },
+    "push-to-checkout.sample": {
+      "size": 2783,
+      "file_or_dir": "file"
+    },
+    "update.sample": {
+      "size": 3650,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\info": {
+    "exclude": {
+      "size": 240,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\logs": {
+    "refs": {
+      "size": 1105,
+      "file_or_dir": "directory"
+    },
+    "HEAD": {
+      "size": 1143,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\logs\\refs": {
+    "heads": {
+      "size": 954,
+      "file_or_dir": "directory"
+    },
+    "remotes": {
+      "size": 151,
+      "file_or_dir": "directory"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\logs\\refs\\heads": {
+    "main": {
+      "size": 954,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\logs\\refs\\remotes": {
+    "origin": {
+      "size": 151,
+      "file_or_dir": "directory"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\logs\\refs\\remotes\\origin": {
+    "main": {
+      "size": 151,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects": {
+    "03": {
+      "size": 310,
+      "file_or_dir": "directory"
+    },
+    "05": {
+      "size": 906,
+      "file_or_dir": "directory"
+    },
+    "08": {
+      "size": 22,
+      "file_or_dir": "directory"
+    },
+    "0a": {
+      "size": 46,
+      "file_or_dir": "directory"
+    },
+    "20": {
+      "size": 663,
+      "file_or_dir": "directory"
+    },
+    "2a": {
+      "size": 161,
+      "file_or_dir": "directory"
+    },
+    "2c": {
+      "size": 159,
+      "file_or_dir": "directory"
+    },
+    "35": {
+      "size": 835,
+      "file_or_dir": "directory"
+    },
+    "3f": {
+      "size": 99,
+      "file_or_dir": "directory"
+    },
+    "63": {
+      "size": 453,
+      "file_or_dir": "directory"
+    },
+    "7a": {
+      "size": 154,
+      "file_or_dir": "directory"
+    },
+    "82": {
+      "size": 844,
+      "file_or_dir": "directory"
+    },
+    "9c": {
+      "size": 1343,
+      "file_or_dir": "directory"
+    },
+    "a3": {
+      "size": 876,
+      "file_or_dir": "directory"
+    },
+    "a4": {
+      "size": 165,
+      "file_or_dir": "directory"
+    },
+    "a5": {
+      "size": 415,
+      "file_or_dir": "directory"
+    },
+    "a6": {
+      "size": 524,
+      "file_or_dir": "directory"
+    },
+    "ac": {
+      "size": 211,
+      "file_or_dir": "directory"
+    },
+    "ae": {
+      "size": 180,
+      "file_or_dir": "directory"
+    },
+    "b1": {
+      "size": 541,
+      "file_or_dir": "directory"
+    },
+    "b8": {
+      "size": 1126,
+      "file_or_dir": "directory"
+    },
+    "b9": {
+      "size": 177,
+      "file_or_dir": "directory"
+    },
+    "c7": {
+      "size": 126,
+      "file_or_dir": "directory"
+    },
+    "ce": {
+      "size": 2260,
+      "file_or_dir": "directory"
+    },
+    "cf": {
+      "size": 151,
+      "file_or_dir": "directory"
+    },
+    "de": {
+      "size": 1186,
+      "file_or_dir": "directory"
+    },
+    "e1": {
+      "size": 540,
+      "file_or_dir": "directory"
+    },
+    "e4": {
+      "size": 632,
+      "file_or_dir": "directory"
+    },
+    "e6": {
+      "size": 15,
+      "file_or_dir": "directory"
+    },
+    "e8": {
+      "size": 623,
+      "file_or_dir": "directory"
+    },
+    "e9": {
+      "size": 788,
+      "file_or_dir": "directory"
+    },
+    "ef": {
+      "size": 1007,
+      "file_or_dir": "directory"
+    },
+    "f3": {
+      "size": 514,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "pack": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\03": {
+    "a1e178f4ae9e1ab30b71c1a23b824c6c15d2b5": {
+      "size": 310,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\05": {
+    "892d90dc77a95d42d709dbc9b3549d5d1037f9": {
+      "size": 906,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\08": {
+    "778d7a80e7c72dfd6972c00423c4f6d3d78072": {
+      "size": 22,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\0a": {
+    "8603f06258c3358f4e6b1bf19f142407ef8239": {
+      "size": 46,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\20": {
+    "5271a0d4f787b81648541e2bfb2965a7d80e0e": {
+      "size": 663,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\2a": {
+    "4e0ede771c5860af11e7b36de051e5506d9a16": {
+      "size": 161,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\2c": {
+    "791caf094a8ab2bc2347b8c1dc884c4901be4f": {
+      "size": 159,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\35": {
+    "adc37f71fef0a2e6a62a173e1627bb75e217c7": {
+      "size": 835,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\3f": {
+    "9d0cfb7a7dadebb2fa24d4f5feb1a7f60a588e": {
+      "size": 99,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\63": {
+    "aaff2c350e19855d8534e725a11227ae6ef039": {
+      "size": 453,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\7a": {
+    "1846bca51800e75a43db945f54a81eed15092b": {
+      "size": 154,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\82": {
+    "19a25ae26822f4c56d72dae81048f4f73e2dd0": {
+      "size": 844,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\9c": {
+    "24bc8bb6f85c37eedc53c9631e419b766ad9f9": {
+      "size": 628,
+      "file_or_dir": "file"
+    },
+    "a7389a7fb28606a281e63890ff834b0cf1ca49": {
+      "size": 715,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\a3": {
+    "5b26ee6fa21b4a5cf14000484b19f7709013cb": {
+      "size": 876,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\a4": {
+    "237bbbc6744ba4a2ca5c610cdc94e9518abb48": {
+      "size": 165,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\a5": {
+    "8ccfa510fea9815d3af3e1b05b92f8e8184218": {
+      "size": 415,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\a6": {
+    "a4a805f42399b38b4b68b6a991cc038abf2544": {
+      "size": 524,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\ac": {
+    "b99302b9316aa4aff2e1b5d84ffbc8cba10bc9": {
+      "size": 211,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\ae": {
+    "4d8bb15d1730a8befdbd08e3f0437fa013fb79": {
+      "size": 180,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\b1": {
+    "a3a94e955171c2f06b01ab8a8ef7e6343a1d15": {
+      "size": 541,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\b8": {
+    "bcf822f349b22907583379e606212a5927ae6a": {
+      "size": 1126,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\b9": {
+    "a536e85746358afee57e85a635f0ee33028d61": {
+      "size": 177,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\c7": {
+    "800dfdc788db64de2153c92b5d8a818b98f1e1": {
+      "size": 126,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\ce": {
+    "03d780b99a923e8c1b0c4d1319bb77459038cc": {
+      "size": 699,
+      "file_or_dir": "file"
+    },
+    "3859a5989657ec71796258bbe23344b1b85b55": {
+      "size": 1368,
+      "file_or_dir": "file"
+    },
+    "c01f68088244e1c7915865fc37cb80c51279d0": {
+      "size": 193,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\cf": {
+    "bbd3db4f83585483451329f9b1a17b47baa386": {
+      "size": 151,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\de": {
+    "2cf0a6e56c331bd5fedcb7f69db0e051c7c692": {
+      "size": 1186,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\e1": {
+    "53783a52c054958397e679758de34a871f8ec9": {
+      "size": 540,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\e4": {
+    "85ae020f9560acdd0ac649e4cdafbb79cba6a5": {
+      "size": 632,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\e6": {
+    "9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+      "size": 15,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\e8": {
+    "03211b29f190b918e2c49b1a9c5a4276caa01f": {
+      "size": 623,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\e9": {
+    "d9744024d09e75e663eddc556fd0988d2a6eba": {
+      "size": 630,
+      "file_or_dir": "file"
+    },
+    "fd428881c279fb80f386aa3863e4c73d80f5b0": {
+      "size": 158,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\ef": {
+    "aa3caccc2b0cd3e4d5c98b862062e95d712c51": {
+      "size": 1007,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\f3": {
+    "750c65c053d6dc81cc159ee6e1321ea1ca8773": {
+      "size": 226,
+      "file_or_dir": "file"
+    },
+    "a574b818489dd52614752a0c1cc0f583ebdf49": {
+      "size": 288,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\info": {},
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\objects\\pack": {},
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\refs": {
+    "heads": {
+      "size": 41,
+      "file_or_dir": "directory"
+    },
+    "remotes": {
+      "size": 41,
+      "file_or_dir": "directory"
+    },
+    "tags": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\refs\\heads": {
+    "main": {
+      "size": 41,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\refs\\remotes": {
+    "origin": {
+      "size": 41,
+      "file_or_dir": "directory"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\refs\\remotes\\origin": {
+    "main": {
+      "size": 41,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\.git\\refs\\tags": {},
+  "D:\\Program\\Prog\\New_DSpy007\\modules": {
+    "__pycache__": {
+      "size": 13345,
+      "file_or_dir": "directory"
+    },
+    "m_Ds1.py": {
+      "size": 2395,
+      "file_or_dir": "file"
+    },
+    "m_task1.py": {
+      "size": 750,
+      "file_or_dir": "file"
+    },
+    "m_task2.py": {
+      "size": 978,
+      "file_or_dir": "file"
+    },
+    "m_task3.py": {
+      "size": 1951,
+      "file_or_dir": "file"
+    },
+    "m_task4.py": {
+      "size": 1528,
+      "file_or_dir": "file"
+    },
+    "m_task5.py": {
+      "size": 1288,
+      "file_or_dir": "file"
+    },
+    "m_task6.py": {
+      "size": 1481,
+      "file_or_dir": "file"
+    },
+    "m_task7.py": {
+      "size": 984,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 486,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\modules\\__pycache__": {
+    "m_Ds1.cpython-311.pyc": {
+      "size": 2170,
+      "file_or_dir": "file"
+    },
+    "m_task1.cpython-311.pyc": {
+      "size": 952,
+      "file_or_dir": "file"
+    },
+    "m_task2.cpython-311.pyc": {
+      "size": 1233,
+      "file_or_dir": "file"
+    },
+    "m_task3.cpython-311.pyc": {
+      "size": 2338,
+      "file_or_dir": "file"
+    },
+    "m_task4.cpython-311.pyc": {
+      "size": 1428,
+      "file_or_dir": "file"
+    },
+    "m_task5.cpython-311.pyc": {
+      "size": 1480,
+      "file_or_dir": "file"
+    },
+    "m_task6.cpython-311.pyc": {
+      "size": 1936,
+      "file_or_dir": "file"
+    },
+    "m_task7.cpython-311.pyc": {
+      "size": 1036,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-311.pyc": {
+      "size": 772,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\Sem": {
+    "task1.py": {
+      "size": 750,
+      "file_or_dir": "file"
+    },
+    "task2.py": {
+      "size": 976,
+      "file_or_dir": "file"
+    },
+    "task3.py": {
+      "size": 1951,
+      "file_or_dir": "file"
+    },
+    "task4.py": {
+      "size": 1528,
+      "file_or_dir": "file"
+    },
+    "task5.py": {
+      "size": 1288,
+      "file_or_dir": "file"
+    },
+    "task6.py": {
+      "size": 1481,
+      "file_or_dir": "file"
+    },
+    "task7.py": {
+      "size": 984,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\test": {
+    "3456_file_006.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "3456_file_007.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "3456_file_008.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "3456_file_009.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "345_file_005.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "34_file_004.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "3_file_003.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "abcdefghijk.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "adsadasd.txt": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "asdasd.rtf": {
+      "size": 7,
+      "file_or_dir": "file"
+    },
+    "file_000.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "file_001.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "file_002.png": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "sdadasd.pdf": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  },
+  "D:\\Program\\Prog\\New_DSpy007\\test2": {
+    "0.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "01.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "012.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "0123.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "01234.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "012345.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "0123456.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "01234567.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "012345678.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "0123456789.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "abcdefghijk.jpg": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "adsadasd.txt": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "asdasd.rtf": {
+      "size": 7,
+      "file_or_dir": "file"
+    },
+    "sdadasd.pdf": {
+      "size": 0,
+      "file_or_dir": "file"
+    }
+  }
+}
